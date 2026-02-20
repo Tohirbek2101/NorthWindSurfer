@@ -1,3 +1,4 @@
+![Loyiha videosi](Assets/NorthWindSurfer.gif)
 # NorthWindSurfer Console Application
 
 **NorthWindSurfer** — bu konsol ilovasi bo‘lib, **Northwind** ma’lumotlar bazasidagi mahsulotlar, kategoriyalar, buyurtmalar va buyurtma tafsilotlarini boshqarish imkonini beradi. Ilova **C#**, **Dapper** va **SQL Server** (LocalDB) texnologiyalaridan foydalangan holda ishlab chiqilgan.
